@@ -1,7 +1,14 @@
 # Keylogger
 just a basic keylogger free to use , its in python but if you wish to use it for windows you can but you will need to convert the python file to exe file.
 
-to do that heres what you need to do step by step 
+
+BEFORE USING THIS FILE YOU NEED TO OPEN THE CODE AND REPLACE "your email here" AND "your password here" WITH YOUR EMAIL AND PASSWORD BECAUSE EACH STROKE CAPTURED WILL BE SENT TO YOUR EMAIL. I AM NOT RESPONSABLE FOR ANY ILLEGAL ACTIONS YOU DO WITH THIS FILE.
+
+
+
+
+
+Now, with that out of the way , heres what you need to do step by step 
 
 
 Step 1: 
